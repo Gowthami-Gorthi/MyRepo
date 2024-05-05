@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LongestPolindrome.cs" />
+    <Compile Include="Problems\BoatsToSavePeople.cs" />
+    <Compile Include="Problems\CompareVersions.cs" />
+    <Compile Include="Problems\LargestPositiveInteger.cs" />
+    <Compile Include="Problems\LongestPolindrome.cs" />
+    <Compile Include="Problems\ReversePrefix.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
